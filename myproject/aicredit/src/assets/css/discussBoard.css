@@ -1,0 +1,64 @@
+.discussBord{
+  margin-top:.1rem;
+  background:#ffffff;
+  padding:0 .1rem;
+}
+.userHeader{
+  height:.27rem;
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+p{
+  display:flex;
+  align-items:center;
+}
+}
+.headPortrait{
+  margin-right:6px;
+  display:inline-block;
+  height:.21rem;
+  width:.21rem;
+img{
+  height:.21rem;
+  width:.21rem;
+  border-radius:50%;
+}
+}
+.user{
+  padding:.15rem 0;
+  border-bottom:2px solid #f7f7f7;
+.topic{
+  font-size:.16rem;
+  color:#494949;
+  font-weight:bolder;
+  line-height:.38rem;
+}
+.details{
+  font-size:.13rem;
+  color:#939393;
+  line-height:.2rem;
+}
+}
+.belongBank{
+  height:.27rem;
+  line-height:.27rem;
+  border:2px solid #efefef;
+  border-radius:3px;
+  padding:0 3px;
+}
+.bottomInfor{
+  font-size:.12rem;
+  color:#939393;
+  line-height:.39rem;
+  .time{
+    margin-right:.1rem;
+  }
+}
+.paging{
+  margin:0 auto;
+  width:1.2rem;
+  height:.55rem;
+  line-height:.55rem;
+  display: flex;
+  justify-content: space-between;
+}

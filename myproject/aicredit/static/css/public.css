@@ -1,0 +1,24 @@
+body,p,dl,dd,ul,ol,li,div,h1,h2,h3,h4,h5,img,h6,form,input,table,tr,td{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration:none;
+}
+li{
+    list-style:none;
+}
+img{
+    border:none;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+html{
+    font-size:26.67vw;
+}
+body{
+    font-size:.16rem;
+}

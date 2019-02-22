@@ -1,0 +1,34 @@
+/*header部分*/
+header {
+  padding: 11px 12px;
+  overflow: hidden;
+
+  .log {
+    float: left;
+
+    img {
+      width: .56rem;
+      height: .28rem;
+      display: block;
+    }
+
+  }
+  .headerRight {
+    float: right;
+    height: .23rem;
+    display: flex;
+
+    a {
+      margin-left: .17rem;
+      color: #ff4141;
+      display: block;
+      font-size: .23rem;
+    }
+  }
+}
+//slider部分
+.slider{
+  width:100%;
+  height:1.67rem;
+  bakcground:#fff;
+}

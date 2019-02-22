@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ffe53dd-90c7-4527-9e64-748c075c01df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/aicredit/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aicredit/src/page/FifthPage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/SliderBox.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aicredit/src/jsonData/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="98" selection-start-line="98" selection-end-line="99" />
+              <folding>
+                <element signature="n#!!block;n#card#0;n#!!block;n#firstPage#0;n#!!top" />
+                <element signature="e#190#297#0" />
+                <element signature="e#307#417#0" />
+                <element signature="e#427#533#0" />
+                <element signature="e#543#650#0" />
+                <element signature="e#660#766#0" />
+                <element signature="e#776#883#0" />
+                <element signature="n#!!block;n#secPage#0;n#!!top" />
+                <element signature="n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#hotBank#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#theme#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#CRMD#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#cardQuestion#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#cardStrategy#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#cardBoard#0;n#!!block;n#thirdPage#0;n#!!top" />
+                <element signature="n#!!block;n#headerNav#0;n#!!block;n#fourthPage#0;n#!!top" />
+                <element signature="n#!!block;n#bandList#0;n#!!block;n#fourthPage#0;n#!!top" />
+                <element signature="n#!!block;n#loansStrategy#0;n#!!block;n#fourthPage#0;n#!!top" />
+                <element signature="n#!!block;n#loansBoard#0;n#!!block;n#fourthPage#0;n#!!top" />
+                <element signature="n#!!block;n#loansQuestionAnswer#0;n#!!block;n#fourthPage#0;n#!!top" />
+                <element signature="n#!!block;n#head#0;n#!!block;n#fifthPage#0;n#!!top" />
+                <element signature="n#!!block;n#slide#0;n#!!block;n#fifthPage#0;n#!!top" />
+                <element signature="n#!!block;n#messageBoard#0;n#!!block;n#fifthPage#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aicredit/src/commen/AjaxUrlSchema.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aicredit/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imgs</find>
+      <find>shop</find>
+      <find>discounts</find>
+      <find>tittle</find>
+      <find>labels</find>
+      <find>tag</find>
+      <find>count</find>
+      <find>num</find>
+      <find>img</find>
+      <find>'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;imgs&quot;</replace>
+      <replace>&quot;tittle&quot;</replace>
+      <replace>&quot;discounts&quot;</replace>
+      <replace>&quot;imgCard&quot;</replace>
+      <replace>&quot;list&quot;</replace>
+      <replace>&quot;labels&quot;</replace>
+      <replace>&quot;imgIcon&quot;</replace>
+      <replace>&quot;merchant&quot;</replace>
+      <replace>&quot;limit&quot;</replace>
+      <replace>&quot;adv&quot;</replace>
+      <replace>&quot;tag&quot;</replace>
+      <replace>&quot;newsTittle&quot;</replace>
+      <replace>&quot;username&quot;</replace>
+      <replace>&quot;numime&quot;</replace>
+      <replace>&quot;num&quot;</replace>
+      <replace>&quot;question&quot;</replace>
+      <replace>&quot;count&quot;</replace>
+      <replace>&quot;time&quot;</replace>
+      <replace>&quot;img&quot;</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aicredit/src/components/board/BoardCommunity.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/board/ItemList.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/router/index.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/community/list/Plate.vue" />
+        <option value="D:/第三阶段/vue-day10/demo/shopcarts/common/Api.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/data.json" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/public/FooterVersion.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/public/BottomNav.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/data/data.json" />
+        <option value="$PROJECT_DIR$/aicredit/src/data.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/apis/CartApis.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/SliderBox.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/CreditCollection.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/Combination.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/LoansRecommend.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/ThematicActivitie.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/QuestionsAnswers.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/Strategy.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/ThemeList.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/Community.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/community/list/Slide.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/community/list/DiscussionBoard.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/community/Content.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/community/list/LoansRecommend.vue" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/TalentRecommendation.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/HotBank.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/ThemeSelected.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/Slipper.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/CaloriesRecommended.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardQuestionAnswer.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardStrategy.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardBoard.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/list/HeaderNav.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/list/BandList.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/list/LoansStrategy.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/list/LoansBoard.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/SubPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/loans/list/LoansQuestionAnswer.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/page/FirstPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/Information/modules/Slider.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/page/FifthPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/Information/modules/MessageBoard.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/Information/Combine.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/components/Information/modules/HeaderNav.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/page/FourthPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/page/SecPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/page/ThirdPage.vue" />
+        <option value="$PROJECT_DIR$/aicredit/data.js" />
+        <option value="$PROJECT_DIR$/aicredit/src/App.vue" />
+        <option value="$PROJECT_DIR$/aicredit/src/jsonData/data.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="586" />
+    <option name="y" value="25" />
+    <option name="width" value="723" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1808马强强" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1808马强强" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808马强强" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1808马强强" type="462c0819:PsiDirectoryNode" />
+              <item name="aicredit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\aicreditVue\aicredit\src" />
+      <recent name="E:\aicreditVue\aicredit\src\commen" />
+      <recent name="E:\aicreditVue\aicredit\src\components\login" />
+      <recent name="E:\aicreditVue\aicredit\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\aicreditVue\aicredit" />
+      <recent name="E:\aicreditVue\aicredit\src\components\Login" />
+      <recent name="E:\aicreditVue\aicredit\src\components\public" />
+      <recent name="E:\aicreditVue\aicredit\static\img" />
+      <recent name="E:\aicreditVue\aicredit\src\components\community\list" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.AjaxUrlSchema.js">
+    <configuration name="AjaxUrlSchema.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/aicredit/src/commen/AjaxUrlSchema.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="data.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/aicredit/data.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.AjaxUrlSchema.js" />
+        <item itemvalue="Node.js.data.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ffe53dd-90c7-4527-9e64-748c075c01df" name="Default Changelist" comment="" />
+      <created>1547540507165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547540507165</updated>
+      <workItem from="1547540509184" duration="12605000" />
+      <workItem from="1547556686326" duration="5541000" />
+      <workItem from="1547599581715" duration="39437000" />
+      <workItem from="1547686514608" duration="9793000" />
+      <workItem from="1547697479313" duration="27552000" />
+      <workItem from="1547773073379" duration="15847000" />
+      <workItem from="1547859439208" duration="14792000" />
+      <workItem from="1547882612636" duration="3776000" />
+      <workItem from="1548031934957" duration="14153000" />
+      <workItem from="1548118875118" duration="25310000" />
+      <workItem from="1548204572145" duration="6393000" />
+      <workItem from="1548211938827" duration="4078000" />
+      <workItem from="1549952162194" duration="161000" />
+      <workItem from="1549963508512" duration="143000" />
+      <workItem from="1550047668173" duration="866000" />
+      <workItem from="1550112251066" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181172000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974227" visible="true" weight="0.27076676" />
+      <window_info id="Structure" order="1" sideWeight="0.5025773" side_tool="true" weight="0.27076676" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35494328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37115073" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32901135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27076676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35494328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37115073" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32901135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/QuestionsAnswers.vue</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/aicredit/src/components/homeList/Combination.vue</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/CaloriesRecommended.vue</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/第三阶段/vue-day10/demo/shopcarts/pages/VsCarts.vue" />
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/CreditCollection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/LoansRecommend.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/ThematicActivitie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/QuestionsAnswers.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/第三阶段/vue-day10/demo/shopcarts/api-server/data/carts.json" />
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/Strategy.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/themeItems/Community.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/ThemeList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/Combination.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="27" />
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#204#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/community/list/Plate.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/community/list/Slide.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/community/list/DiscussionBoard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/community/list/LoansRecommend.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/community/Content.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#263#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/node_modules/express/lib/router/layer.js" />
+    <entry file="file://$PROJECT_DIR$/aicredit/node_modules/express/lib/router/route.js" />
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/TalentRecommendation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/HotBank.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/ThemeSelected.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/CaloriesRecommended.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardQuestionAnswer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="162" selection-start-line="11" selection-start-column="162" selection-end-line="11" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardStrategy.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/items/CardBoard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/creditCard/Slipper.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/list/HeaderNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/list/BandList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/list/LoansStrategy.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/list/LoansBoard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/list/LoansQuestionAnswer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="136" selection-start-line="11" selection-start-column="136" selection-end-line="11" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/loans/SubPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/Information/modules/Slider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/Information/modules/HeaderNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/Information/modules/MessageBoard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/Information/Combine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/UserCenter.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/FourthPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/SecPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/ThirdPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss" />
+    <entry file="file://$PROJECT_DIR$/aicredit/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/FirstPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#154#214#0" expanded="true" />
+            <element signature="e#450#523#0" />
+            <element signature="e#543#581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/apis/CartApis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/page/FifthPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/components/homeList/SliderBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/commen/AjaxUrlSchema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aicredit/src/jsonData/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="98" selection-start-line="98" selection-end-line="99" />
+          <folding>
+            <element signature="n#!!block;n#card#0;n#!!block;n#firstPage#0;n#!!top" />
+            <element signature="e#190#297#0" />
+            <element signature="e#307#417#0" />
+            <element signature="e#427#533#0" />
+            <element signature="e#543#650#0" />
+            <element signature="e#660#766#0" />
+            <element signature="e#776#883#0" />
+            <element signature="n#!!block;n#secPage#0;n#!!top" />
+            <element signature="n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#hotBank#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#theme#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#CRMD#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#cardQuestion#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#cardStrategy#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#cardBoard#0;n#!!block;n#thirdPage#0;n#!!top" />
+            <element signature="n#!!block;n#headerNav#0;n#!!block;n#fourthPage#0;n#!!top" />
+            <element signature="n#!!block;n#bandList#0;n#!!block;n#fourthPage#0;n#!!top" />
+            <element signature="n#!!block;n#loansStrategy#0;n#!!block;n#fourthPage#0;n#!!top" />
+            <element signature="n#!!block;n#loansBoard#0;n#!!block;n#fourthPage#0;n#!!top" />
+            <element signature="n#!!block;n#loansQuestionAnswer#0;n#!!block;n#fourthPage#0;n#!!top" />
+            <element signature="n#!!block;n#head#0;n#!!block;n#fifthPage#0;n#!!top" />
+            <element signature="n#!!block;n#slide#0;n#!!block;n#fifthPage#0;n#!!top" />
+            <element signature="n#!!block;n#messageBoard#0;n#!!block;n#fifthPage#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

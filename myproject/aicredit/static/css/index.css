@@ -1,0 +1,287 @@
+@charset "UTF-8";
+body {
+  background: #f3f4f6; }
+
+::-webkit-scrollbar {
+  display: none; }
+
+/*header部分*/
+header {
+  padding: 11px 12px;
+  overflow: hidden; }
+  header .log {
+    float: left; }
+    header .log img {
+      width: .56rem;
+      height: .28rem;
+      display: block; }
+  header .headerRight {
+    float: right;
+    height: .23rem;
+    display: flex; }
+    header .headerRight a {
+      margin-left: .17rem;
+      color: #ff4141;
+      display: block;
+      font-size: .23rem; }
+
+.swiperBox {
+  background: #ffffff;
+  padding: .17rem .12rem; }
+
+.slider {
+  border-radius: 7px;
+  height: 1.67rem;
+  background: #fff; }
+  .slider img {
+    width: 100%;
+    height: 100%; }
+
+.theme {
+  margin-top: .12rem;
+  background: #ffffff; }
+  .theme .title {
+    height: .46rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; }
+    .theme .title .themeName {
+      display: flex;
+      align-items: center; }
+      .theme .title .themeName h3 {
+        font-size: .16rem; }
+    .theme .title .leftBorder {
+      width: .05rem;
+      height: .23rem;
+      margin-right: 8px;
+      background: red;
+      display: inline-block; }
+    .theme .title .more a {
+      margin-right: .1rem;
+      font-size: .11rem;
+      color: #999; }
+  .theme .item {
+    padding: 0 .21rem 0 .15rem;
+    display: flex;
+    flex-wrap: wrap; }
+    .theme .item .creditBank {
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-bottom: .2rem; }
+      .theme .item .creditBank h3 {
+        font-size: .14rem;
+        color: #3f3f3f; }
+      .theme .item .creditBank p {
+        margin: .07rem 0 .1rem;
+        font-size: .11rem;
+        color: #ababab; }
+      .theme .item .creditBank .credit img {
+        display: block;
+        width: .9rem;
+        height: .57rem; }
+
+.business .itemName {
+  width: 50%;
+  height: .77rem;
+  display: flex;
+  align-items: center; }
+  .business .itemName img {
+    width: .31rem;
+    height: .32rem; }
+  .business .itemName .itemIntro {
+    display: flex;
+    flex-direction: column;
+    padding: 0 .08rem 0 .2rem; }
+    .business .itemName .itemIntro p {
+      width: 1.02rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: .1rem;
+      color: #afafaf; }
+    .business .itemName .itemIntro b {
+      position: absolute;
+      top: 0;
+      margin-left: .1rem;
+      background: #ff4938;
+      font-size: .1rem;
+      color: #fff; }
+    .business .itemName .itemIntro h4 {
+      position: relative;
+      font-size: .14rem;
+      color: #323232; }
+
+.thematic {
+  height: 1.22rem;
+  padding-left: .15rem; }
+  .thematic .themeCard {
+    overflow: hidden;
+    white-space: nowrap;
+    overflow-x: auto; }
+    .thematic .themeCard img {
+      width: 1.3rem;
+      height: .83rem; }
+
+.questionAnswer {
+  background: #ffffff; }
+  .questionAnswer ul {
+    padding: .15rem .12rem; }
+    .questionAnswer ul li {
+      float: left;
+      margin: 0 .08rem .18rem 0;
+      height: .32rem;
+      line-height: .32rem;
+      background: #f4f5f7;
+      font-size: .15rem;
+      padding: 0 .15rem;
+      border-radius: .16rem; }
+  .questionAnswer .question {
+    clear: both;
+    padding: 0 .1rem 0 .15rem; }
+    .questionAnswer .question a {
+      display: flex;
+      justify-content: space-between;
+      line-height: .47rem; }
+      .questionAnswer .question a em {
+        font-style: normal;
+        font-size: .18rem;
+        color: #2e2e2e;
+        width: 75%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis; }
+      .questionAnswer .question a span {
+        width: 15%;
+        font-size: .11rem;
+        color: #b0b0b0; }
+    .questionAnswer .question .moreAnswer {
+      margin: 0 auto; }
+      .questionAnswer .question .moreAnswer b {
+        font-size: .15rem;
+        color: #b1b1b1; }
+
+.strategy ul {
+  padding: .13rem; }
+  .strategy ul li {
+    float: left;
+    margin-right: .07rem;
+    height: .32rem;
+    font-size: .15rem;
+    background: #f4f5f7;
+    line-height: .32rem;
+    border-radius: .16rem;
+    text-align: center;
+    padding: 0 .15rem; }
+
+.strategy .strategyBox {
+  clear: both;
+  padding: .21rem .16rem 0;
+  overflow: hidden; }
+  .strategy .strategyBox .moreAnswer {
+    font-size: .15rem;
+    color: #a2a2a2;
+    text-align: center; }
+
+.strategy .creditNews {
+  display: flex;
+  justify-content: space-between;}
+  .strategy .creditNews p img {
+    width: 1.02rem;
+    height: .66rem;
+    border-radius: 7px; }
+  .strategy .creditNews .newItem h3 {
+    font-size: .16rem;
+    font-weight:100;
+    color: #343434;
+    margin-bottom: .08rem; }
+  .strategy .creditNews .newItem .countDate {
+    display: flex; }
+    .strategy .creditNews .newItem .countDate .read {
+      margin-right: .17rem; }
+    .strategy .creditNews .newItem .countDate p {
+      font-size: .12rem;
+      color: #919191; }
+
+.community {
+  padding: 0 .12rem; }
+  .community ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: .1rem; }
+    .community ul li {
+      height: .32rem;
+      line-height: .32rem;
+      font-size: .15rem;
+      border-radius: .16rem;
+      background: #f4f5f7;
+      padding: 0 .15rem;
+      margin: 0 .08rem .17rem 0; }
+  .community .news {
+    padding-bottom: .2rem; }
+    .community .news a {
+      margin-top: .32rem;
+      display: block; }
+    .community .news .newsTittle {
+      font-weight: bolder;
+      line-height: .32rem;
+      font-size: .16rem;
+      color: #313131; }
+    .community .news .newsInfor {
+      font-size: .11rem;
+      color: #a9a9a9; }
+      .community .news .newsInfor .userName {
+        float: left;
+        margin-right: .17rem; }
+      .community .news .newsInfor .num {
+        float: right; }
+    .community .news .moreBoards {
+      text-align: center;
+      font-size: .15rem;
+      color: #b1b1b1; }
+
+footer {
+  font-size: .13rem;
+  color: #959595;
+  padding: .1rem 0; }
+  footer a {
+    font-size: .13rem;
+    color: #959595;
+    line-height: .28rem; }
+  footer .website {
+    text-align: center; }
+    footer .website .map {
+      display: none; }
+      footer .website .map a {
+        padding: 0 .06rem; }
+    footer .website span, footer .website p {
+      line-height: .28rem; }
+  footer .blogroll {
+    text-align: center;
+    padding: 0 .5rem;
+    display: none; }
+    footer .blogroll span {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center; }
+      footer .blogroll span a {
+        display: inline-block;
+        width: 49%; }
+
+.bottonNav {
+  background: #ffffff; }
+  .bottonNav ul {
+    display: flex; }
+    .bottonNav ul li {
+      height: .55rem;
+      flex: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .bottonNav ul li a {
+        text-align: center;
+        font-size: .12rem;
+        color: #aaaaaa;
+        display: flex;
+        flex-direction: column; }
